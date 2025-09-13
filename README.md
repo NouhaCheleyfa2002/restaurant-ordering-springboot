@@ -1,0 +1,1 @@
+Built a secure and fully functional restaurant management and food ordering system using Spring Boot. Implemented Spring Security with JWT authentication and role-based access for admins and users. Features include menu browsing, adding to cart, order placement, reservations, staff management, and reporting with a scalable RESTful API architecture.
